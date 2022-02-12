@@ -366,7 +366,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "8x8_eyes.net",
-      "specctra_dsn": "",
+      "specctra_dsn": "8x8_eyes.dsn",
       "step": "",
       "vrml": ""
     },
