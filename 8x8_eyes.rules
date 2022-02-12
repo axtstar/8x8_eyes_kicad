@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 5)
+    (start_pass_no 7)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -53,8 +53,8 @@
     "kicad_default" "Via[0-1]_800:400_um-kicad_default"
   )
   (class default
-    "Pin 13" "Net-(R1-Pad2)" "Net-(R2-Pad1)" "Pin 3" "Net-(R3-Pad1)" "Pin 6" "Pin 10" "Net-(R5-Pad2)"
-    "Pin 11" "Net-(R6-Pad2)" "Pin 15" "Net-(R7-Pad2)" "Pin 16" "Net-(R8-Pad2)" "Pin 14" "Pin 8"
+    "Pin 13" "Net-(D65-Pad13)" "Net-(D65-Pad3)" "Pin 3" "Net-(D65-Pad6)" "Pin 6" "Pin 10" "Net-(D65-Pad10)"
+    "Pin 11" "Net-(D65-Pad11)" "Pin 15" "Net-(D65-Pad15)" "Pin 16" "Net-(D65-Pad16)" "Pin 14" "Pin 8"
     "Pin 12" "Pin 1" "Pin 7" "Pin 2" "Pin 5" GND CASCADE VCC
     CLK CLR SER "Pin 9" "Pin 4" "unconnected-(U2-Pad9)" "Net-(D65-Pad4)"
     (clearance_class default)
