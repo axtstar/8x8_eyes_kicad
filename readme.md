@@ -1,5 +1,7 @@
 # 8x8 eyes
 
+![circuit](image/actual.png)
+
 マトリクスLED 1588BSの点灯用の基板設計
 
 全て2.54mmピッチ
@@ -15,16 +17,16 @@
 
 # 回路
 
-![](image/schematic.png)
+![circuit](image/schematic.png)
 
 # PCB
 
-![](image/pcb.png)
+![pcb](image/pcb.png)
 
 # 完成予想図
 
 表
-![](image/8x8_eyes.png)
+![surface](image/8x8_eyes.png)
 
 裏
-![](image/8x8_eyes_2.png)
+![back side](image/8x8_eyes_2.png)
